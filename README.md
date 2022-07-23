@@ -4,7 +4,7 @@ My self Libin Andrews.
 
 I am born and raised in Kerala, went school in Nehru College of Engineering and Research Centre and Currently moved to Pune.
 
-I have a total of 3.5 Years Experienced Automobile Engineer and Currently working Bosch Global Software Technologies as an OBD Calibration Engineer. I love my job! I hang out with a lot of tech nerds. I am a tech and political geek myself. I tried to pick up programming (Python) but not sure if I can do that for my career.
+I have a total of 3.5 Years Experience and Currently working Bosch Global Software Technologies as an OBD Calibration Engineer. I love my job! I hang out with a lot of tech nerds. I am a tech and political geek myself. I tried to pick up programming (Python) but not sure if I can do that for my career.
 
 I tried to Implement my coding skills in my current job which endorse myself to accomplish some satisfaction by myself. Example : Copy Paste File, Auto Filtering of File, Rename File from Excel, Extract data of Error codes from recording, Extract Reaction of Errors from recording, IUMPR Data Extraction, EDA of DPF Eff Mon using PM sensor etc.
 
