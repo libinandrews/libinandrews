@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Libin Andrews</h1>
 <h3 align="center">Automobile Engineer who does the Python Code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=libinandrews" alt="libinandrews" /></a> </p>
-
 
 I am born and raised in Kerala, went school in Nehru College of Engineering and Research Centre and Currently moved to Pune.
 
