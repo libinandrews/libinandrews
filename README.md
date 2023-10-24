@@ -1,22 +1,28 @@
 ![image](https://user-images.githubusercontent.com/40682955/180646454-375e0da6-f9f4-4440-9efe-295ee1192f40.png)
-<h1 align="center">Hi 👋, I'm Libin Andrews</h1>
-<h3 align="center">Automobile Engineer who does the Python Code</h3>
 
+<h1 align="center">Libin Andrews: Automotive Engineer & Python Maestro</h1>
+<h3 align="center">Combining Automotive Expertise with Python Wizardry</h3>
 
-I am an Automobile Engineer with a passion for coding and technology. With over 4 years of experience in the automotive industry, I have developed a strong skill set in vehicle diagnostics and software development.
+Discover the Power of a Versatile Skill Set!
 
-- Started my career as a Service Advisor, Warranty Coordinator, and Technical Coordinator at a Fiat Chrysler Automobile Dealer, where I gained hands-on experience in vehicle diagnosing using On-Board Diagnostics tools.
+🚗 **Automotive Expertise**: With over 5 years of experience in the automotive industry, I bring a wealth of knowledge and skills.
 
-- Worked as a Fleet Validation Engineer, focusing on vehicle-level activities and OBD Validation.
+🔧 **Vehicle Diagnostics Pro**: I started my journey as a Service Advisor, Warranty Coordinator, and Technical Coordinator at a Fiat Chrysler Automobile Dealer, gaining hands-on experience in vehicle diagnosing using On-Board Diagnostics tools.
 
-- Furthered my experience as an OBD Calibration Engineer at Robert Bosch, working on the Project Tata 3.3 ltr OBD calibration.
+🚛 **Fleet Validation Specialist**: As a Fleet Validation Engineer, I honed my expertise in vehicle-level activities and OBD Validation.
 
-Currently, I am working as an HIL Testing Engineer at Magna Styre, where I specialize in ECU Test Tool, Dspace, and Matlab. I ensure high-quality testing of Electronic Control Units (ECUs) by performing Hardware-in-Loop (HIL) testing, which is crucial to ensuring the safety and reliability of modern vehicles.
+🔍 **OBD Calibration Guru**: I furthered my experience as an OBD Calibration Engineer at Robert Bosch, contributing to the success of the Project Tata 3.3 ltr OBD calibration.
 
-I am also proficient in Python programming, which I utilize to develop tools and automate tasks in my daily work. I have a certification in IBM Data Science, further enhancing my data analysis and programming skills.
+⚙️ **HIL Testing Engineer**: Currently, I'm an HIL Testing Engineer at Magna Styre, specializing in ECU Test Tool, Dspace, and Matlab. I ensure the highest standards of safety and reliability in modern vehicles by conducting Hardware-in-Loop (HIL) testing for Electronic Control Units (ECUs).
 
-In addition to my technical expertise, I am proficient in Microsoft Office applications and possess excellent interpersonal skills. I am adept at working with individuals at various levels and from diverse cultures, facilitating effective collaboration and teamwork.
+🐍 **Python Programming Pro**: Beyond automotive engineering, I'm proficient in Python programming. I leverage this expertise to develop tools and automate tasks, enhancing efficiency in my daily work.
 
-Feel free to connect with me on [LinkedIn](https://in.linkedin.com/in/libinandrews) to learn more about my work and discuss potential collaborations.
+🎓 **Data Science Certified**: I hold a certification in IBM Data Science, elevating my data analysis and programming capabilities.
 
-Looking forward to connecting with you!
+💼 **Interpersonal Skills**: Alongside technical prowess, I excel in Microsoft Office applications and have excellent interpersonal skills. I foster collaboration and teamwork across diverse cultures and levels.
+
+🌐 **Connect with Me**: Let's explore opportunities! Connect with me on [LinkedIn](https://in.linkedin.com/in/libinandrews) to discover more about my work and potential collaborations.
+
+Unlock the potential of Automotive Engineering and Python Coding in one versatile package. Let's connect and explore endless possibilities!
+
+Feel free to design your poster using this content, incorporating relevant graphics and a layout that suits your preferences.
