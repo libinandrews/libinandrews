@@ -24,5 +24,3 @@ Discover the Power of a Versatile Skill Set!
 🌐 **Connect with Me**: Let's explore opportunities! Connect with me on [LinkedIn](https://in.linkedin.com/in/libinandrews) to discover more about my work and potential collaborations.
 
 Unlock the potential of Automotive Engineering and Python Coding in one versatile package. Let's connect and explore endless possibilities!
-
-Feel free to design your poster using this content, incorporating relevant graphics and a layout that suits your preferences.
